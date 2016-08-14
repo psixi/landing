@@ -1,6 +1,6 @@
 # _Landing_
 
-#### _A Project landing website, 1470440620_
+#### _A Project landing website, 08/14/2016_
 
 #### By _**Psixi**_
 
@@ -15,7 +15,7 @@ _A website to list HTML, CSS, and Bootstrap framework projects_
 
 ## Known Bugs
 
-_HTML object will not display_
+_Mosaic image will not float right in about page right column_
 
 ## Support and contact details
 
